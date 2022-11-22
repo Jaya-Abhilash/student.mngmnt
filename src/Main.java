@@ -36,5 +36,3 @@ import java.util.Scanner;
 
                 }
             }}
-    }
-}
